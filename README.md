@@ -71,4 +71,3 @@ Determine which product types generate the highest revenue and order volume.
 Understand how customer engagement varies across different product categories.
 
 Dashboard : ![Alt text](https://github.com/Maheshvari-AS/Power-BI-Project---Shopify-Data-analysis/blob/main/Shopify%20Project%20Image.png)
-Example: ![Dashboard Preview](https://github.com/Maheshvari-AS/Power-BI-Project---Shopify-Data-analysis/blob/main/Shopify%20Project%20Image.png)
