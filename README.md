@@ -53,14 +53,14 @@ Sorted: Descending order by selected measure.
 Dynamic: Interacts with slicers/filters and responds to the KPI selector.
 
 2. Sales Trend Over Time
-   
-Area Chart – Trend by Day
-Purpose: Show the daily trend of the selected measure (e.g., daily Net Sales or daily Repeat Customers).
-Interactivity: Changes dynamically based on the selected measure.
 
-Bar Chart or Line Chart – Trend by Hour
-Purpose: Display sales or customer activity by hour of the day (e.g., 0–23 hrs), revealing peak activity periods.
-Use Case: Helps understand time-of-day behavior, useful for marketing or operational timing decisions.
+   Area Chart – Trend by Day
+   Purpose: Show the daily trend of the selected measure (e.g., daily Net Sales or daily Repeat Customers).
+   Interactivity: Changes dynamically based on the selected measure.
+
+   Bar Chart or Line Chart – Trend by Hour
+   Purpose: Display sales or customer activity by hour of the day (e.g., 0–23 hrs), revealing peak activity periods.
+   Use Case: Helps understand time-of-day behavior, useful for marketing or operational timing decisions.
 
 3. Gateway Payment Method
 Identify the most and least used payment methods.
